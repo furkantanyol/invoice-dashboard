@@ -1,0 +1,3 @@
+import ResultsTablePaginationActionsView from './ResultsTablePaginationActions.view'
+
+export default ResultsTablePaginationActionsView
