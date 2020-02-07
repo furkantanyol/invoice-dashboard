@@ -1,11 +1,11 @@
-#### How to
+#### Invoice Dashboard
 
-##### Start
+This is an example invoice dashboard React app created with a custom webpack configuration from scratch.
+Some major packages used in this app:
+- React
+- Redux
+- Material UI
+- Babel
+- Moment
 
-- Clone
-- `yarn install`
-- `yarn start`
-
-  or
-
-- `yarn dev`
+Enjoy!
